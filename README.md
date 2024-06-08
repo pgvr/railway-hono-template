@@ -1,8 +1,6 @@
-```
-npm install
-npm run dev
-```
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/q63Oi1?referralCode=C-JrDA)
 
-```
-open http://localhost:3000
-```
+# Instructions
+
+`pnpm install`
+`pnpm run dev`
